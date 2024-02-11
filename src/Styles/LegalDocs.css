@@ -1,0 +1,73 @@
+.legal-text-content{
+    padding: 12px 32px;
+    background: linear-gradient(to right, #ECF2FF, #FBFCFF);
+}
+/* Title */
+.legal-siteTitle a {
+    text-decoration: none;
+    color: #df7c0c;
+    font-size: 48px;
+    letter-spacing: .8px;
+}
+.legal-siteTitle {
+    padding: 0 0 8px 0;
+    border-radius: 2px;
+    background-color: white;
+    text-align: center;
+    font-family: "Cairo", sans-serif;
+}
+.legal-siteSign{
+    color: #54de54;
+    font-family: "Cairo", sans-serif;
+    font-size: 56px;
+    font-weight: bold;
+}
+/* Info */
+.legal-title {
+    margin: 16px 0;
+    padding: 0 0 2px 0;
+    border-bottom: 2px solid grey;
+    font-family: "Cairo", sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: .8px;
+}
+.legal-description {
+    margin: 0 0 16px 0;
+    font-family: "Cairo", sans-serif;
+    font-size: 18px;
+    letter-spacing: .8px;
+    line-height: 1.8rem;
+}
+/* Footer */
+.legal-footer {
+    padding: 24px 40px;
+    display: block;
+    color: black;
+    font-family: "Cairo", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: .8px;
+    line-height: 1.6rem;
+    direction: ltr;
+}
+.font-section {
+  font-family: "Cairo", sans-serif;
+}
+/* Responsive */
+@media screen and (max-width: 600px) {
+    .legal-section {
+        padding: 24px;
+    }
+    .legal-title {
+        font-size: 24px;
+    }
+    .legeal-description {
+        font-size: 16px;
+    }
+    .legal-footer {
+        padding: 12px 20px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
