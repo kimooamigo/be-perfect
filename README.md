@@ -21,39 +21,43 @@ Welcome to the Be Perfect project repository! This is a React-based website aime
 
 ### Hero Section
 
-![Health-Plus Image-1](https://i.postimg.cc/0Q4839KN/Health-Plus-Image1.png)
+![Be-Perfect Image-1](https://i.postimg.cc/mkVZtprP/screencapture-drmohamedonia-2024-04-20-21-54-47-1.png)
 
 ### Information Section
 
-![Health-Plus Image-2](https://i.postimg.cc/zvRJY4TF/Health-Plus-Image2.png)
+![Be-Perfect Image-2](https://i.postimg.cc/VkJskRPN/screencapture-drmohamedonia-2024-04-20-21-54-47-2.png)
 
-### About Section
+### Posts Slider Section
 
-![Health-Plus Image-3](https://i.postimg.cc/8zGrwbV0/Health-Plus-Image3.png)
+![Be-Perfect Image-2](https://i.postimg.cc/xC3n4pM6/screencapture-drmohamedonia-2024-04-20-21-54-47-3.png)
+
+### Posts Slider Section
+
+![Be-Perfect Image-2](https://i.postimg.cc/xC3n4pM6/screencapture-drmohamedonia-2024-04-20-21-54-47-3.png)
 
 ### Why Choose Health Plus?
 
-![Health-Plus Image-4](https://i.postimg.cc/fknMz5Kn/Health-Plus-Image4.png)
+![Be-Perfect Image-4](https://i.postimg.cc/RZ5pWSjn/screencapture-drmohamedonia-2024-04-20-21-54-47-4.png)
 
-### Reviews Section
+### About Section
 
-![Health-Plus Image-5](https://i.postimg.cc/xjkHdCRt/Health-Plus-Image5.png)
+![Be-Perfect Image-3](https://i.postimg.cc/SssDBJzH/screencapture-drmohamedonia-2024-04-20-21-54-47-5.png)
 
-### Doctors Section
+### GoogleMap Section
 
-![Health-Plus Image-6](https://i.postimg.cc/8PM6h0xv/Health-Plus-Image6.png)
+![Be-Perfect Image-3](https://i.postimg.cc/xdsWNrGD/screencapture-drmohamedonia-2024-04-20-21-54-47-6.png)
 
 ### Footer Section
 
-![Health-Plus Image-7](https://i.postimg.cc/sftWGrHy/Health-Plus-Image7.png)
+![Be-Perfect Image-7](https://i.postimg.cc/sxW8Lvks/screencapture-drmohamedonia-2024-04-20-21-54-47-7.png)
 
 ### Legal Documents Page
 
-![Health-Plus Image-8](https://i.postimg.cc/FKskXszb/Health-Plus-Image8.png)
+![Be-Perfect Image-8](https://i.postimg.cc/0NrV3zSF/screencapture-drmohamedonia-legal-2024-04-20-22-16-09.png)
 
 ### Appointment Form Page
 
-![Health-Plus Image-9](https://i.postimg.cc/2SxLtBk8/Health-Plus-Image9.png)
+![Be-Perfect Image-9](https://i.postimg.cc/Ss2tXnNC/screencapture-drmohamedonia-appointment-2024-04-20-22-14-19.png)
 
 ## Deployment
 
