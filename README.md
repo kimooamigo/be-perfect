@@ -1,12 +1,12 @@
 # Health Plus
 
-Welcome to the Health Plus project repository! This is a React-based website aimed at providing accessible and personalized healthcare services to users. The website allows users to connect with expert doctors, schedule appointments, and receive expert medical advice.
+Welcome to the Be Perfect project repository! This is a React-based website aimed at providing accessible and personalized healthcare services to users. The website allows users to connect with expert doctors, schedule appointments, and receive expert medical advice.
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://alkaison.github.io/Health-Plus/ "Health Plus")
+- **Website**: [Health Plus](https://drmohamedonia.com/ "Be Perfect")
 - **Framework**: React.js
-- **Deployment**: GitHub Pages
+- **Deployment**: Oficially Website
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
 
 ## Features
@@ -57,17 +57,17 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [https://alkaison.github.io/Health-Plus/](https://alkaison.github.io/Health-Plus/).
+The website is deployed using GitHub Pages and can be accessed at [https://drmohamedonia.com/](https://drmohamedonia.com/).
 
 ## Getting Started
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/Alkaison/Health-Plus.git`
-2. Navigate to the project directory: `cd Health-Plus`
+1. Clone this repository: `git clone https://github.com/kimooamigo/be-perfect.git`
+2. Navigate to the project directory: `cd be-perfect`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000/Health-Plus`
+5. Open your browser and visit: `http://localhost:3000/be-perfect`
 
 ## Contributing
 
