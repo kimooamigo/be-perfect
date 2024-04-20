@@ -31,10 +31,6 @@ Welcome to the Be Perfect project repository! This is a React-based website aime
 
 ![Be-Perfect Image-2](https://i.postimg.cc/xC3n4pM6/screencapture-drmohamedonia-2024-04-20-21-54-47-3.png)
 
-### Posts Slider Section
-
-![Be-Perfect Image-2](https://i.postimg.cc/xC3n4pM6/screencapture-drmohamedonia-2024-04-20-21-54-47-3.png)
-
 ### Why Choose Health Plus?
 
 ![Be-Perfect Image-4](https://i.postimg.cc/RZ5pWSjn/screencapture-drmohamedonia-2024-04-20-21-54-47-4.png)
