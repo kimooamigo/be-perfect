@@ -7,7 +7,7 @@ Welcome to the Be Perfect project repository! This React-based website is design
 - **Website**: [Be Perfect](https://drmohamedonia.com/ "Be Perfect")
 - **Framework**: React.js
 - **Deployment**: Oficially Website
-- **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
+- **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon, Astro Blog
 
 ## Features
 
@@ -16,6 +16,7 @@ Welcome to the Be Perfect project repository! This React-based website is design
 - Responsive UI design for seamless user experience across devices.
 - Utilizes React-Toastify for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
 - Deployed using GitHub Pages for easy access and sharing.
+- Astro Blog mergged with a website.
 
 ## Screenshots
 
@@ -57,7 +58,7 @@ Welcome to the Be Perfect project repository! This React-based website is design
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [https://drmohamedonia.com/](https://drmohamedonia.com/).
+The website is deployed using cPanel Hosting and can be accessed at [https://drmohamedonia.com/](https://drmohamedonia.com/).
 
 ## Getting Started
 
