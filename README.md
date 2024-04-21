@@ -60,15 +60,45 @@ Welcome to the Be Perfect project repository! This React-based website is design
 
 The website is deployed using cPanel Hosting and can be accessed at [https://drmohamedonia.com/](https://drmohamedonia.com/).
 
-## Getting Started
+## 👨🏻‍💻 Running Locally
 
-To run the project locally:
+**Recommended extensions for VSCode:**
 
-1. Clone this repository: `git clone https://github.com/kimooamigo/be-perfect.git`
-2. Navigate to the project directory: `cd be-perfect`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000/be-perfect`
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss).
+- [React](https://marketplace.visualstudio.com/items?itemName=abdullahceylan.vscode-react-component-generator).
+
+1. Clone or [fork](https://github.com/kimooamigo/be-perfect/fork) the repository:
+
+```bash
+git clone https://github.com/kimooamigo/be-perfect.git
+```
+
+2. Select Directory Path 
+
+```bash
+cd be-perfect
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+4. Run the development server:
+
+```bash
+npm run start
+# or
+yarn start
+# or
+pnpm start
+```
+
 
 ## Contributing
 
