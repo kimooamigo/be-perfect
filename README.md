@@ -1,4 +1,4 @@
-# Be pERFECT
+# Be Perfect
 
 Welcome to the Be Perfect project repository! This React-based website is designed to offer accessible and personalized plastic surgery services to users seeking expert care. Users can connect with experienced plastic surgeons, schedule consultations and procedures, and receive tailored medical advice and guidance. The platform prioritizes user convenience and expertise, ensuring a seamless experience for those exploring cosmetic enhancements and surgical solutions.
 
